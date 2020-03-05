@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="api_fail_message">Something went wrong. Please try again later</string>
+
+</resources>
